@@ -50,7 +50,7 @@ img{
 }
 
 .navbar a:hover, .dropdown:hover .dropbtn {
-    background-color: red;
+    background-color: #f542c8;
     list-style: none;
 }
 
