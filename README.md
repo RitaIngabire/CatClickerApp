@@ -1,5 +1,5 @@
 # CatClickerApp
 
-i) Click the DropDown Menu  
-ii) Choose a link  
+i) Click on the Cute Cats Button  
+ii) Choose one of the cat options available  
 iii) View a cat
