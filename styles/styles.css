@@ -1,14 +1,16 @@
 * {
+  
     margin: 0 auto;
     padding:0;
     box-sizing: border-box;
     font-family: 'Trebuchet MS', 'Lucida Sans Unicode', 'Lucida Grande', 'Lucida Sans', Arial, sans-serif;
 }
 
-
 img{
-    display: block;
     margin: 0 auto;
+    max-width: 100%;
+    height:100vh;
+    object-fit: cover;
 }
 
 /* The Modal (background) */
@@ -16,12 +18,15 @@ img{
     display: none; /* Hidden by default */
     position: fixed; /* Stay in place */
     z-index: 1; /* Sit on top */
-    left: 480px;
-    top: 200px;
+    left: 50%;
+    top: 50%;
     width: 20%; /* Full width */
-    height: 20%; /* Full height */
+    height: 18%; /* Full height */
     overflow: auto; /* Enable scroll if needed */
     background-color:white; /* Fallback color */
+    text-align:center;
+    background-color: #333;
+    color: white;
     
 }
 
